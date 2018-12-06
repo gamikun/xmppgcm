@@ -1,3 +1,9 @@
+Version 0.2.4
+
+Fixes
+----------------
+* XML injection fixed in message raw composing. Replaced string format with elementtree.
+
 Version 0.2.3
 ================
 Other
